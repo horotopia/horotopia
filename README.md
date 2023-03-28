@@ -56,9 +56,8 @@ I'm curently learning React, Swift and Kotlin.<br>
 
 
 ## My Github Stats:
-https://github-readme-stats.vercel.app/api?username={horotopia}&theme=blue-green
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
-https://github-readme-stats.vercel.app/api/top-langs/?username=horotopia&theme=blue-green
+!(https://github-readme-stats.vercel.app/api?username=horotopia&theme=blue-green)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=horotopia&theme=blue-green)
 
 <!--
 **horotopia/horotopia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
