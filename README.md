@@ -1,7 +1,6 @@
 ### Hi, I'm Leo 👋
 I'm a Developer Student who currently works on React JS.<br>
-I'm curently learning React, Swift and Kotlin.<br>
-
+I'm studing at ESGI for a Mastère.<br>
 
 ## 💻 OS:
 1.![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
