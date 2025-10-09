@@ -1,6 +1,7 @@
 ## Salut, je suis Léo 👋
 
-Dévelo<!-- Vous pouvez ajouter d'autres outils (Jira, Trello, Swagger, Markdown, etc.) si nécessaire. -->
+Développeur full‑stack spécialisé dans l’écosystème JavaScript/TypeScript.<br>
+Étudiant à l’ESGI (Mastère Ingénierie du Web). J’aime concevoir des apps web performantes, accessibles et maintenables.
 
 ## 📌 Projets mis en avant
 - **[my-svelte-class](https://github.com/horotopia/my-svelte-class)** — Un cours interactif où professeurs et élèves pourront évoluer ensemble.
